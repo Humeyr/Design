@@ -4,9 +4,9 @@
 
 <h2>Screengif</h2>
 
-![](gif-d.gif)
+![](gif1.gif)
 
 <h2>Website link</h2>
 
 
-<a>file:///C:/Users/Admin/Desktop/webdesign1/index.html</a>
+<a href="https://humeyr.github.io/Design/index.html"></a>
